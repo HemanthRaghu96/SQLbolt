@@ -1,6 +1,6 @@
 SQL\
-I have learned and practices some exercise from https://sqlbolt.com/\
-Below are the topics that i have learned,\
+I have learned and practices some exercise from https://sqlbolt.com/
+Below are the topics that i have learned,
 
 SELECT queries 101\
 Queries with constraints (Pt. 1)\
